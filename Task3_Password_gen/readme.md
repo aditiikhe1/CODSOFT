@@ -15,3 +15,13 @@ This project is a Password Generator application developed in Python. It generat
 
 ## Technologies Used
 - Python 3
+- 
+- ## How to Run
+
+1. Save the file as `password_generator.py`.
+2. Open the terminal in VS Code.
+3. Run the following command:
+
+```bash
+python password_generator.py
+```
